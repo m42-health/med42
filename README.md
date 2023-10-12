@@ -1,6 +1,6 @@
 # Med42 - Clinical Large Language Model
 
-**Our model is available at [Hugging Face](https://huggingface.co/m42-health)**
+**Our model is available at [Hugging Face](https://huggingface.co/m42-health/med42-70b)**
 
 ## Our Vision to Democratize Medical Knowledge with Med42
 
